@@ -50,4 +50,7 @@
 ---
 
 > 🧠 *"Code it until it works. Learn it until it's yours."*
+>
+> ![Visitor Count](https://komarev.com/ghpvc/?username=yashtarapara25&style=flat-square)
+
 
