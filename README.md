@@ -1,4 +1,4 @@
-\<h1 align="center">👋 Hi there, I'm Yash Patel!</h1>
+<h1 align="center">👋 Hi there, I'm Yash Patel!</h1>
 
 <p align="center">
 🎓 BCA Student @ Atmiya University <br>
